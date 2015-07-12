@@ -11,6 +11,10 @@ namespace AngularAndMVC
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/site.css"));
 
+            bundles.Add(new ScriptBundle("~/bundles/AngularAndMVC")
+                .IncludeDirectory("~/Scripts/Controllers", "*.js")
+                .Include("~/Scripts/AngularAndMVC.js"));
+
             BundleTable.EnableOptimizations = true;
         }
     }
