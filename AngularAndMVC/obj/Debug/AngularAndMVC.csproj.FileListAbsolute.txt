@@ -50,6 +50,5 @@ C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\bin\Microsoft.
 C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\obj\Debug\AngularAndMVC.csprojResolveAssemblyReference.cache
 C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\obj\Debug\AngularAndMVC.dll
 C:\Users\Sam Desktop\Box Sync\C#Stuff\AngularAndMVC\AngularAndMVC\obj\Debug\AngularAndMVC.pdb
